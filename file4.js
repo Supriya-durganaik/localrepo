@@ -1,1 +1,0 @@
-<p> js file created to use "mv" command</p>
